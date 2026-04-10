@@ -1,0 +1,406 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallForm",
+			"GroupId": "",
+			"Name": "眼球缩放"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "",
+			"Name": "流汗"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyUpper",
+			"GroupId": "",
+			"Name": "身体前倾后仰"
+		},
+		{
+			"Id": "ParamHandWave",
+			"GroupId": "",
+			"Name": "默认到左招手"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "默认到右招手"
+		},
+		{
+			"Id": "ParamHandPoint",
+			"GroupId": "",
+			"Name": "左招手到指"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "右招手到指"
+		},
+		{
+			"Id": "ParamHandWaving",
+			"GroupId": "",
+			"Name": "左招手摇动"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "右招手摇动"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "手臂l"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "手臂r"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "肩挂"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动　前发"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "兔耳朵r"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "兔耳朵l"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "小球"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动　侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "蝴蝶结1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "蝴蝶结2"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "裙摆1"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "裙摆2"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "手指指"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "手指前后动"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part51",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part46",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part42",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part38",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part35",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part32",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part29",
+			"Name": "DAnew_version.psd(未找到对应图层)"
+		},
+		{
+			"Id": "Part",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part22",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part20",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part18",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part17",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part16",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part15",
+			"Name": "模型"
+		},
+		{
+			"Id": "Part2",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part9",
+			"Name": "前发"
+		},
+		{
+			"Id": "Part10",
+			"Name": "五官"
+		},
+		{
+			"Id": "Part13",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part14",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part23",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part39",
+			"Name": "前发"
+		},
+		{
+			"Id": "Part21",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part19",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part34",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part30",
+			"Name": "头"
+		},
+		{
+			"Id": "Part27",
+			"Name": "头"
+		},
+		{
+			"Id": "Part3",
+			"Name": "裙摆"
+		},
+		{
+			"Id": "Part4",
+			"Name": "裙子"
+		},
+		{
+			"Id": "Part7",
+			"Name": "腿"
+		},
+		{
+			"Id": "Part8",
+			"Name": "手臂"
+		},
+		{
+			"Id": "Part11",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part12",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part37",
+			"Name": "手"
+		},
+		{
+			"Id": "Part31",
+			"Name": "手"
+		},
+		{
+			"Id": "Part25",
+			"Name": "手"
+		},
+		{
+			"Id": "Part5",
+			"Name": "蝴蝶结"
+		},
+		{
+			"Id": "Part6",
+			"Name": "小蝴蝶结"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}

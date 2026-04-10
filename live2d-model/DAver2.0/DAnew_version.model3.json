@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "DAnew_version.moc3",
+		"Textures": [
+			"DAnew_version.4096/texture_00.png"
+		],
+		"Physics": "DAnew_version.physics3.json",
+		"DisplayInfo": "DAnew_version.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

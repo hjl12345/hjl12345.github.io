@@ -1,0 +1,36 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "DAnew_version.moc3",
+		"Motions": {
+			"Han": [
+				{
+					"File": "motion/流汗.motion3.json"
+				}
+			]
+		},
+		"Textures": [
+			"DAnew_version.4096/texture_00.png"
+		],
+		"Physics": "DAnew_version.physics3.json",
+		"DisplayInfo": "DAnew_version.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthForm",
+				"ParamMouthOpenY"
+			]
+		}
+	]
+}
