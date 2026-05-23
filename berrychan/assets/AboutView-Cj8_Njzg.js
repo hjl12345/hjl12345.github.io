@@ -1,1 +1,0 @@
-import{d as e,_ as o,c as t,o as n}from"./index-BLsZU1RA.js";const a=e({name:"AboutView"}),s={class:"about-view-main-container"};function c(r,_,i,d,p,f){return n(),t("div",s)}const u=o(a,[["render",c],["__scopeId","data-v-03b08837"]]);export{u as default};
