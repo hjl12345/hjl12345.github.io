@@ -1,1 +1,0 @@
-import{d as a,_ as e,o as s,c as o,a as c}from"./index-Td0sVUWa.js";const t=a({}),n={class:"home-landscape-page-3d-draft-layout-main-container"},r={ref:"canvasRef",class:"canvas"};function d(_,p,f,i,l,m){return s(),o("div",n,[c("canvas",r,null,512)])}const v=e(t,[["render",d],["__scopeId","data-v-a79c4b27"]]);export{v as default};
