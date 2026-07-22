@@ -1,0 +1,1 @@
+import{d as e,_ as n,o,c as s}from"./index-TJzZOM0E.js";const t=e({}),a={class:"being-card-main-container"};function c(r,d,_,i,p,f){return o(),s("div",a)}const l=n(t,[["render",c],["__scopeId","data-v-28e59e9d"]]);export{l as default};

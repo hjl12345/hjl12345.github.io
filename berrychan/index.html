@@ -9,7 +9,7 @@
     <!-- 默认标题名 -->
     <title>Default Raspberry App</title>
   
-    <!-- Font Awesome 4.7.0 cdn -->
+    <!-- Font Awesome 4.7.0 cdn 库 -->
     <!-- <link
       rel="stylesheet"
       href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -19,14 +19,16 @@
 
     <!-- Font Awesome 7.2.0 free -->
     <link rel="stylesheet" href="./fontawesome-free-7.2.0-web/css/all.css" />
-    <script type="module" crossorigin src="./assets/index-BIaqywsf.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CLASf_fk.css">
+    <script type="module" crossorigin src="./assets/index-TJzZOM0E.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BXIvper6.css">
   </head>
   <body>
     <!-- 创建应用元素 -->
     <div id="app"></div>
+    <!-- 先加载 live2d 2.x 的核心库，支持 2.x 和这之前的 live2d 的模型，是旧的 API ，对于新的模型的兼容性很差 -->
+    <!-- <script src="/Live2dCore/live2.min.js"></script> -->
 
-    <!-- 先加载 live2d 核心库 -->
+    <!-- 先加载 live2d 4.x 的核心库，这一版本的核心库支持 3.x 4.x 5.x 的 live2d 的模型 -->
     <script src="./Live2dCore/live2dcubismcore.min.js"></script>
 
     <!-- 然后加载 vue 项目代码 -->
